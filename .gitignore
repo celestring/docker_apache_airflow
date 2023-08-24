@@ -1,0 +1,8 @@
+# Directory
+/config
+/dags
+/logs
+/plugins
+
+# File
+.env
